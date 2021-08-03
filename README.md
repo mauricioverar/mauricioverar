@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola👋
 
 
 Hola, mi nombre es Mauricio Vera Rodríguez, soy Desarrollador Front-End y Programador en lenguaje Phyton y JavaScript. Vivo en la V-Región de Chile, en la ciudad de Viña del Mar. He trabajado en Telecomunicaciones por 10 años y en la Informática por 20 años, conociendo el avance tecnológico en ambos ámbito. Me gusta mantenerme actualizado y aprender nuevas cosas, como a su vez enseñarlas y guiar a las personas a interactuar con los nuevos productos, sistemas o aplicaciones que van apareciendo a diario, para mejorar nuestra existencia. He realizado programas en Python y JavaScript, también juegos en JavaScript, Unity, Godot y Unreal. 
