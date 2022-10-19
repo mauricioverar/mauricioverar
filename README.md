@@ -1,4 +1,4 @@
-### Hola ![mano](https://user-images.githubusercontent.com/52289594/196711294-642655fa-8693-4177-9689-f6905ab404d3.gif)
+### Hola <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" style="max-width: 100%;">
 
 Soy Mauricio, Desarrollador Full Stack. Vivo en la V-Región de Chile, en la ciudad de Viña del Mar. He trabajado en Telecomunicaciones y relacionado a la Informática, conociendo el avance tecnológico en ambos ámbito. Me gusta mantenerme actualizado y aprender nuevas cosas y guiar a las personas a interactuar con los nuevos productos, sistemas o aplicaciones que van apareciendo a diario. He realizado programas en lenguaje Python, JavaScript, NodeJS, SQL, NoSql, también juegos en JavaScript, Unity(C#), Godot(GDScript) y Unreal(C++). 
 
