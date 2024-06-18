@@ -3,7 +3,7 @@
 Soy Desarrollador Full Stack. Vivo en la V-Región de Chile, en la ciudad de Viña del Mar. He trabajado en Telecomunicaciones y soporte en Informática. Me gusta aprender cosas nuevas y guiar a las personas a interactuar con los nuevos productos, sistemas o aplicaciones. He realizado programas en lenguaje Kotlin, Java, Python, JavaScript, TypeScript, NodeJS, SQL, NoSql, MySql, PostgreSql, Sqlite, MongoDB, DynamoDB, stacks MERN, PERN, ORM Sequelize, Prisma, Frameworks Vue, Angular, Quasar, Nuxt, React, Next, Vite, Express, Nest, Tailwind, Vuetify, Element, Buefy, Mui, Materialize, Bootstrap, Bootswatch, Bootvue, Sass. También juegos en JavaScript, Unity(C#), Godot(GDScript), Unreal(C++) y Realidad Aumentada SparkAR(JS). Además análisis de datos con Python, R, Google.
 
 ![mauricioverar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mauricioverar&theme=vue-dark&hide_border=true)
-![mauricioverar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioverar&hide=css&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![mauricioverar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioverar&langs_count=8&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 - 🔭 I’m currently working on Informática
 - 💫 I’m currently working on Desarrollador Full-Stack
