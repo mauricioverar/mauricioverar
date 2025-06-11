@@ -11,5 +11,5 @@ Soy Desarrollador Full Stack, he realizado programas en lenguaje JetPack Compose
 - 👯 I’m looking to collaborate on Programas
 - 🤔 I’m looking for help with Codigos
 - 💬 Ask me about ...
-- 📫 How to reach me:  @Maurici93207683  https://www.facebook.com/mauricio.verarodriguez.1  https://www.linkedin.com/in/mauricio-vera-rodriguez/  https://twitter.com/MauricioVeraRo5
+- 📫 How to reach me:  @Maurici93207683  https://www.facebook.com/mauricio.verarodriguez.1  https://www.linkedin.com/in/mauricio-vera-rodriguez/
 
