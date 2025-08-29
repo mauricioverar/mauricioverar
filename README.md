@@ -72,6 +72,6 @@ SparkAR (JavaScript)
 
 ## 📈 GitHub Stats
 
-![mauricioverar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioverar&theme=vue-dark&langs_count=20&show_icons=true&hide_border=true&layout=compact&hide_progress=true&include_all_commits=false&count_private=false)
+![mauricioverar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioverar&theme=vue-dark&langs_count=20&show_icons=true&hide_border=true&layout=compact&hide_progress=true&include_all_commits=false&count_private=true)
 ![mauricioverar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mauricioverar&theme=vue-dark&hide_border=true)
 
