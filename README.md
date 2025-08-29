@@ -16,16 +16,16 @@ Vue · React · Angular · Quasar · Nuxt · Next · Vite · Tailwind · Vuetify
 Node.js · Express · NestJS
 
 **Bases de datos:**  
-MySQL · PostgreSQL · SQLite · MongoDB · DynamoDB
+MySQL · MariaDB · SQLServer · PostgreSQL · SQLite · MongoDB · Redis · DynamoDB
 
 **ORMs:**  
 Sequelize · Prisma
 
 **Mobile & Android:**  
-React Native · Jetpack Compose · Kotlin · Java
+Jetpack Compose · Kotlin · Java · React Native · Ionic · Cordova · Unity · Quasar
 
 **Testing & QA:**  
-JUnit · Mockito · Selenium WebDriver · WebDriverManager · Selenium IDE
+JUnit · TestNG · Mockito · Jacoco · AssertJ · Selenium WebDriver · WebDriverManager · Selenium IDE · Puppeteer · Cypress · Jasmine · Mocha · Jest · Nightwatch
 
 **Videojuegos:**  
 Unity (C#) · Godot (GDScript) · Unreal Engine (C++)
