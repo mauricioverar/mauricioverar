@@ -13,7 +13,7 @@ JavaScript · TypeScript · Python · Java · Kotlin · Jetpack Compose · GDScr
 Vue · React · Angular · Quasar · Nuxt · Next · Vite · Tailwind · Vuetify · Element · Buefy · Mui · Materialize · Bootstrap · Bootswatch · Bootvue · Sass
 
 **Backend:**  
-Node.js · Express · NestJS
+Spring Boot · Node.js · Express · NestJS · Flask · Django
 
 **Bases de datos:**  
 MySQL · MariaDB · SQLServer · PostgreSQL · SQLite · MongoDB · Redis · DynamoDB
