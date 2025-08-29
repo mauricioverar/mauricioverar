@@ -1,6 +1,6 @@
 # 👋 Hola, soy Mauricio
 
-Soy desarrollador **Full Stack** con enfoque en **QA Automation**, desarrollo de videojuegos y **realidad aumentada**. Me apasiona construir soluciones **modulares**, **escalables** y **bien testeadas**, combinando precisión técnica con creatividad.
+Desarrollador **Full Stack** con enfoque en **QA Automation**, desarrollo de videojuegos y **realidad aumentada**. Me apasiona construir soluciones **modulares**, **escalables** y **bien testeadas**, combinando precisión técnica con creatividad.
 
 ---
 
