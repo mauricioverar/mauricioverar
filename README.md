@@ -58,7 +58,6 @@ SparkAR (JavaScript)
 ## 📫 Contacto
 
 - 🌐 [LinkedIn](https://linkedin.com/in/mauricio-vera-rodriguez)  
-- 📧 mauricio.vera.r7@gmail.com  
 - 🧪 [Portafolio](https://tranquil-entremet-96f58b.netlify.app/)
 
 ---
