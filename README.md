@@ -48,7 +48,7 @@ SparkAR (JavaScript)
   manejo de preferencias y consumo de red con **Retrofit**.  
   Ideal para demostrar patrones limpios y desacoplados en Android.
 
-- 🎮 [Camino Fantasma](https://github.com/mauricioverar/Fastrun)  
+- 🎮 [Fastrun](https://github.com/mauricioverar/Fastrun)  
   Juego móvil desarrollado en **Unreal Engine 5**.  
   El camino se desvanece progresivamente y la dificultad aumenta cada 3 puntos.  
   Diseño dinámico, mecánicas adaptativas y enfoque en experiencia de usuario.
