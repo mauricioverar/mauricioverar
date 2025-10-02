@@ -25,7 +25,7 @@ Sequelize · Prisma
 Jetpack Compose · Kotlin · Java · React Native · Ionic · Cordova · Unity · Quasar
 
 **Testing & QA:**  
-JUnit · TestNG · Mockito · Jacoco · AssertJ · Selenium WebDriver · WebDriverManager · Selenium IDE · Puppeteer · Cypress · Jasmine · Mocha · Jest · Nightwatch
+JUnit · TestNG  · JMeter · Mockito · POM · Rest Assured · Postman · Newman · Hamcrest · Cucumber · Jacoco · AssertJ · Selenium WebDriver · WebDriverManager · Selenium IDE · Puppeteer · Cypress · Jasmine · Mocha · Jest · Nightwatch
 
 **Videojuegos:**  
 Unity (C#) · Godot (GDScript) · Unreal Engine (C++)
@@ -37,6 +37,33 @@ SparkAR (JavaScript)
 
 ## 🚀 Proyectos destacados
 
+- 🌐 [API Testing con Rest-Assured y TestNG](https://github.com/mauricioverar/rest-assured-jsonplaceholder)  
+  Pruebas automatizadas sobre el endpoint `/users` de **JSONPlaceholder**, usando **Rest-Assured**, **TestNG** y **Hamcrest**.  
+  Validaciones de contenido, rendimiento (< 2s), y pruebas parametrizadas con `@DataProvider`.  
+  Modularización por tipo de prueba, configuración centralizada de `baseURI`, y logs completos para trazabilidad.  
+  Diseño autónomo, escalable y defendible para ampliar cobertura fácilmente.
+
+- 🏥 [Clínica Modular - Automatización BDD](https://github.com/mauricioverar/Sistema-de-gestion-clinica)  
+  Automatización de pruebas funcionales para aplicación web usando **Selenium WebDriver**, **JUnit 5** y **Cucumber**.  
+  Validación de login, carga de fichas clínicas y reglas de negocio específicas con enfoque **BDD**.  
+  Arquitectura modular con **Page Object Model**, gestión centralizada de WebDriver y aislamiento de escenarios con `ThreadLocal`.  
+  Reportes HTML generados automáticamente (`target/cucumber-report.html`) y captura de screenshots ante fallos.  
+  Escenarios cubiertos: login, diagnóstico pediátrico, validación de campos obligatorios y confirmación de registro exitoso.
+
+- 🛒 [Tienda Negocio – Servicios y Pruebas Unitarias](https://github.com/mauricioverar/Negocio)  
+  Módulo backend para gestión de productos y descuentos en una tienda virtual, construido con **Spring Boot**.  
+  Servicios desacoplados (`ProductServiceImpl`, `DiscountServiceImpl`) con lógica de negocio clara y validaciones robustas.  
+  Pruebas unitarias con **JUnit 5** y **Mockito**, incluyendo simulación de repositorios, manejo de excepciones y validación de reglas de descuento.  
+  Cobertura funcional: operaciones CRUD, cálculo de precios con descuento, validación de parámetros y errores controlados.  
+  Diseño limpio, trazabilidad y principios de desacoplamiento aplicados.
+
+- 🧪 [Módulo de Reservas de Canchas - TDD & Mockito](https://github.com/mauricioverar/Reserva-de-Canchas)  
+  Implementación de módulo de reservas con enfoque **TDD**, usando **JUnit 5**, **Mockito** y cobertura con **JaCoCo**.  
+  Funcionalidades: registro de canchas, creación/modificación/cancelación de reservas, validación de horarios y duplicados.  
+  Diseño limpio con principios **SOLID**, simulación de repositorios con mocks, y verificación de interacciones con `ArgumentCaptor`.  
+  Cobertura alta (73%+) con reporte en `target/site/jacoco/index.html`.  
+  Historia de usuario y escenario BDD incluidos para trazabilidad funcional.
+  
 - 🧪 [CalculadoraTest](https://github.com/mauricioverar/calculatorjac)  
   Pruebas unitarias con **JUnit 5**, **Hamcrest**, **Assumptions** y **tests parametrizados**.  
   Cobertura de operaciones básicas, manejo de errores y validación de lógica booleana.  
